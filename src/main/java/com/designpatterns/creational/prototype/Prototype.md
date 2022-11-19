@@ -2,6 +2,7 @@
 Prototype is a creational design pattern that lets you copy existing 
 objects without making your code dependent on their classes. As well 
 as creating a deep copy of the object instance.
+
 https://refactoring.guru/design-patterns/prototype
 
 #Problem
